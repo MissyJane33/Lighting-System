@@ -3,4 +3,4 @@ A designer-friendly lighting system, which can be adjusted through a dropdown bo
 
 There is a spotlight provided that has the options already built into it and you can place this spotlight multiple times and change the mode for it, if you place a seperate, normal spotlight, the plugin will not work.
 
-In order to use the trigger to switch modes, place it into the world and select the light you wish to change modes with the dropper tool from the details section, and in the blueprint there will be the option to set the mode to whichever you want it to switch to.
+In order to use the trigger to switch modes, place it into the world and select the light you wish to change modes with the dropper tool from the details section, and in the details panel, under the spotloght reference there will be the option to set the mode to whichever you want it to switch to.
